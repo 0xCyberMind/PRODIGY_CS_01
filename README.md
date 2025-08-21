@@ -16,7 +16,7 @@ Each task is implemented in Python and organized into separate folders for easy 
 1. Clone the repository:
    ```bash
    git clone https://github.com/0xCyberMind/PRODIGY_CS_01/
-   cd  PRODIGY_CS_01/
+   cd  PRODIGY_CS_01/ceaser cipher.py
    python caesar_cipher.py
 
 
